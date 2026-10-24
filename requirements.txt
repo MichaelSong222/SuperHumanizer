@@ -1,0 +1,2 @@
+# Only the optional DOCX helper needs this dependency.
+lxml>=4.9,<7

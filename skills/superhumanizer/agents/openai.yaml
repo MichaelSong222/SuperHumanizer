@@ -1,0 +1,6 @@
+interface:
+  display_name: "SuperHumanizer"
+  short_description: "明确调用的中英文保真改写，支持标注定位、篇幅控制和Word修订"
+  default_prompt: "请用 $superhumanizer 对我指定的材料降AI，保留原意、引用和限定，按要求交付。"
+policy:
+  allow_implicit_invocation: false
